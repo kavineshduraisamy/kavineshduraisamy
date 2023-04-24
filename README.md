@@ -6,7 +6,7 @@
 <p>📚 I’m currently learning Full stack development with MERN.</p>
 <p> 👨‍💻 Recent Project ( https://kavineshduraisamy.github.io/Project-Portfolio/)</p>
 
- 📫 How to reach me **kavineshduraisamy@gmail.com**
+ 📫 Reach me **kavineshduraisamy@gmail.com**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">

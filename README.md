@@ -6,8 +6,7 @@
 <p>📚 I’m currently learning Full stack development with MERN.</p>
 <p> 👨‍💻 All of my projects are available at ( https://kavineshduraisamy.github.io/Project-Portfolio/)</p>
 
-<p>  📫 How to reach me **kavineshduraisamy@gmail.com** </p>
-
+ 📫 How to reach me **kavineshduraisamy@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -38,3 +37,4 @@
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavineshduraisamy&theme=dark&show_icons=true&locale=en&layout=compact" alt="kavineshduraisamy" /></p>
+

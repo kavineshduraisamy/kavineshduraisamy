@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavineshduraisamy&label=Profile%20views&color=0e75b6&style=flat" alt="kavineshduraisamy" /> </p>
 
 <p>📚 I’m currently learning Full stack development with MERN.</p>
-<p> 👨‍💻 All of my projects are available at ( https://kavineshduraisamy.github.io/Project-Portfolio/)</p>
+<p> 👨‍💻 Recent Project ( https://kavineshduraisamy.github.io/Project-Portfolio/)</p>
 
  📫 How to reach me **kavineshduraisamy@gmail.com**
 

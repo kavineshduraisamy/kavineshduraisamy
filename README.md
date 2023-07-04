@@ -16,7 +16,7 @@
 
  <br/>   
  
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -54,7 +54,7 @@
 
 
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavineshduraisamy&theme=dark&show_icons=true&locale=en" alt="kavineshduraisamy" /></p>
 

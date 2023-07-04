@@ -54,7 +54,7 @@
 
 
 
-<h2>GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavineshduraisamy&theme=dark&show_icons=true&locale=en" alt="kavineshduraisamy" /></p>
 

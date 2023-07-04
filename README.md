@@ -4,7 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavineshduraisamy&label=Profile%20views&color=0e75b6&style=flat" alt="kavineshduraisamy" /> </p>
 
 <p>📚 I’m currently learning Full stack development with MERN.</p>
-<p> 👨‍💻 Recent Project ( https://kavineshduraisamy.github.io/Project-Portfolio/)</p>
+<p> 👨‍💻 Recent Project </p>
+
+ - Banking Application using Only ReactJs:
+ ( https://scintillating-unicorn-535598.netlify.app/) 
+  
+ - Project Portfolio: 
+( https://kavineshduraisamy.github.io/Project-Portfolio/)
 
  📫 Reach me **kavineshduraisamy@gmail.com**
 

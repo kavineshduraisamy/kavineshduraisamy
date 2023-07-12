@@ -56,14 +56,12 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavineshduraisamy&theme=dark&show_icons=true&locale=en" alt="kavineshduraisamy" /></p>
+![](https://github-readme-stats.vercel.app/api?username=kavineshduraisamy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kavineshduraisamy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavineshduraisamy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavineshduraisamy&theme=dark" alt="kavineshduraisamy" /></p>
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kavineshduraisamy&theme=dark&show_icons=true&locale=en&layout=compact" alt="kavineshduraisamy" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### ✍️ Random Dev Quote

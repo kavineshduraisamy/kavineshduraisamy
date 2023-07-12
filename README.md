@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavineshduraisamy&label=Profile%20views&color=0e75b6&style=flat" alt="kavineshduraisamy" /> </p>
 
+<p>I'm a web developer always passionate to expand and broaden my technical knowledge by learning new technologies. I'm always eager to learn how and why of the technologies before deep diving into it.</p> <br/> 
+<p> I  have gained hands-on experience in creating responsive web applications, utilizing React.js to build interactive user interfaces, implementing RESTful APIs with Node.js and Express.js, and working with MongoDB for data management.</p> <br/>
+<p>👉🏻 Currently I'm expanding my knowledge in JavaScript Universe.</p>
 <p>📚 I’m currently learning Full stack development with MERN.</p>
 <p> 👨‍💻 Recent Project </p>
 

@@ -10,7 +10,7 @@
 <p> 👨‍💻 Recent Project </p>
 
  - Banking Application using Only ReactJs:
- ( https://scintillating-unicorn-535598.netlify.app/) 
+ ( https://simple-banking-application-kavinesh.netlify.app/) 
   
  - Project Portfolio: 
 ( https://kavineshduraisamy.github.io/Project-Portfolio/)

@@ -9,6 +9,12 @@
 <p>📚 I’m currently learning Full stack development with MERN.</p>
 <p> 👨‍💻 Recent Project </p>
 
+ - Banking Application with MERN
+ ( https://banking-application-mern-kavinesh.netlify.app/)
+
+ - NEWS Blog Using API
+ ( https://news-blog-using-api-kavinesh.netlify.app/)
+
  - Banking Application using Only ReactJs:
  ( https://simple-banking-application-kavinesh.netlify.app/) 
   

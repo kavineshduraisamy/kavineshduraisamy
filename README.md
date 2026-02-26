@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated Full Stack Developer from India with strong hands-on experience designing, developing, and deploying responsive and scalable web applications.
+I'm a dedicated Software Developer from India with strong hands-on experience designing, developing, and deploying responsive and scalable web applications.
 
 I specialize in building end-to-end applications using the **MERN Stack**, focusing on performance, clean architecture, and user-centric design. I enjoy understanding the core fundamentals of technologies and applying best practices to create efficient solutions.
 

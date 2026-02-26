@@ -7,19 +7,6 @@
 <p> I  have gained hands-on experience in creating responsive web applications, utilizing React.js to build interactive user interfaces, implementing RESTful APIs with Node.js and Express.js, and working with MongoDB for data management.</p> <br/>
 <p>👉🏻 Currently I'm expanding my knowledge in JavaScript Universe.</p>
 <p>📚 I’m currently learning Full stack development with MERN.</p>
-<p> 👨‍💻 Recent Project </p>
-
- - Banking Application with MERN
- ( https://banking-application-mern-kavinesh.netlify.app/)
-
- - NEWS Blog Using API
- ( https://news-blog-using-api-kavinesh.netlify.app/)
-
- - Banking Application using Only ReactJs:
- ( https://simple-banking-application-kavinesh.netlify.app/) 
-  
- - Project Portfolio: 
-( https://kavineshduraisamy.github.io/Project-Portfolio/)
 
  📫 Reach me **kavineshduraisamy@gmail.com**
 

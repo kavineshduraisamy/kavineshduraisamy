@@ -76,17 +76,7 @@ I specialize in building end-to-end applications using the **MERN Stack**, focus
 </a>
 </div>
 
----
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=kavineshduraisamy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kavineshduraisamy&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavineshduraisamy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ### ✨ Developer Mindset
 > “First understand the fundamentals. Then build with confidence.”
